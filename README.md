@@ -24,7 +24,7 @@ mvn clean install
 How to test the application:
 ============================
 
-I have used postman tool to test the below services.
+Used postman tool to test the below services.
 
 To list all the counters and corresponding values
 
